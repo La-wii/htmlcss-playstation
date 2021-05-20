@@ -31,21 +31,24 @@
 /* console */
 .console-cleft{
     background-color: lightblue;
-    height: 400px;
+    height: 450px;
 }
 
 .console-cright{
     background-color: lime;
-    height: 400px;
+    height: 450px;
 }
 
-.blue{
-    background-color: royalblue;
-    height: 400px;
-}
-
-.red{
+/* cross-selling */
+.cross-selling{
     background-color: red;
+}
+
+.cross-selling-item{
+    background-color: aqua;
+    height: 150px;
+    border: 1px solid black;
+
 }
 
 .jumbotron-2{
@@ -65,7 +68,7 @@
 /* old */
 .yellow-bottom{
     background-color: yellow;
-    height: 400px;
+    
 }
 /* plus */
 .plus{
@@ -74,10 +77,7 @@
 }
 
 /* discount */
-.orange-top{
-    background-color: orange;
-    height: 250px;
-}
+
 
 .orange-bottom{
     background-color: orange;
