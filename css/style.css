@@ -1,0 +1,15 @@
+
+.header-top{
+    background-color: #000000;
+    height: 40px;
+}
+
+.header-bottom{
+    background-color: yellow;
+    height: 80px;
+}
+
+.jumbotron{
+    background-color: tomato;
+    height: 600px;
+}
