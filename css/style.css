@@ -77,11 +77,11 @@
 }
 
 /* discount */
-
-
-.orange-bottom{
-    background-color: orange;
-    height: 400px;
+.discount-box{
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    border: 1px solid black;
 }
 
 /* explore */
