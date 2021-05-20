@@ -46,6 +46,7 @@
     height: 600px;
 }
 
+/* news */
 .news{
     background-color: #202020;
 }
@@ -54,7 +55,7 @@
     background-color: pink;
     height: 400px;
 }
-
+/* old */
 .yellow-top{
     background-color: yellow;
     height: 250px;
@@ -63,4 +64,42 @@
 .yellow-bottom{
     background-color: yellow;
     height: 400px;
+}
+/* plus */
+.plus{
+    background-color: #bebcbb;
+    height: 400px;
+}
+
+/* discount */
+.orange-top{
+    background-color: orange;
+    height: 250px;
+}
+
+.orange-bottom{
+    background-color: orange;
+    height: 400px;
+}
+
+/* explore */
+.explore{
+    background-color: #091332;
+    height: 400px;
+}
+
+/* social media */
+.social-color{
+    background-color: slateblue;
+    height: 400px;
+}
+
+/* footer */
+footer{
+    background-color: #00439C;
+}
+
+.footer-color{
+    background-color: springgreen;
+    height: 600px;
 }
