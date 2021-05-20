@@ -1,4 +1,4 @@
-
+/* header */
 .header-top{
     background-color: #000000;
     height: 40px;
@@ -9,7 +9,34 @@
     height: 80px;
 }
 
+/* jumbotron */
 .jumbotron{
     background-color: tomato;
     height: 600px;
+}
+
+/* product */
+.product{
+    background-color: yellowgreen;
+    /* height: 800px; */
+}
+
+.purple{
+    background-color: purple;
+    height: 150px;
+}
+
+.orange{
+    background-color: orange;
+    height: 200px;
+}
+
+.blue{
+    background-color: royalblue;
+    height: 400px;
+}
+
+.red{
+    background-color: red;
+    height: 150px;
 }
