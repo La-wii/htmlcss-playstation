@@ -11,24 +11,32 @@
 
 /* jumbotron */
 .jumbotron{
-    background-color: tomato;
+    background-color: indianred;
     height: 600px;
 }
 
 /* product */
-.product{
-    background-color: yellowgreen;
-    /* height: 800px; */
+/* game */
+.game-box{
+    background-color: green;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
 }
 
-.purple{
-    background-color: purple;
-    height: 150px;
+.blue-text{
+    color: #0070d1;
 }
 
-.orange{
-    background-color: orange;
-    height: 200px;
+/* console */
+.console-cleft{
+    background-color: lightblue;
+    height: 400px;
+}
+
+.console-cright{
+    background-color: lime;
+    height: 400px;
 }
 
 .blue{
@@ -38,7 +46,6 @@
 
 .red{
     background-color: red;
-    height: 150px;
 }
 
 .jumbotron-2{
@@ -51,16 +58,11 @@
     background-color: #202020;
 }
 
-.pink{
-    background-color: pink;
-    height: 400px;
-}
-/* old */
-.yellow-top{
-    background-color: yellow;
-    height: 250px;
+.news-text{
+    color: white;
 }
 
+/* old */
 .yellow-bottom{
     background-color: yellow;
     height: 400px;
