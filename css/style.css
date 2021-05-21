@@ -11,8 +11,26 @@
 
 /* jumbotron */
 .jumbotron{
-    background-color: indianred;
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center;
+    background-size: cover;
     height: 600px;
+    position: relative;
+}
+
+.jumbotron-content{
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 60%;
+}
+
+.jumbotron-content a{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #cd3d0e;
+    color: white;
+    text-decoration: none;
 }
 
 /* product */
