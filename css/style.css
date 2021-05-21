@@ -21,7 +21,7 @@
 .jumbotron-content{
     color: white;
     position: absolute;
-    left: 10%;
+    left: 5%;
     top: 57%;
 }
 
@@ -81,7 +81,7 @@
 .jumbotron-2-content{
     color: white;
     position: absolute;
-    left: 10%;
+    left: 5%;
     top: 25%;
 }
 
@@ -116,7 +116,8 @@
     position: relative;
 }
 
-.ps-plus-logo{
+.ps-plus-logo,
+.ps-now-logo{
     width: 250px;
     margin-bottom: 40px;
 }
@@ -124,14 +125,16 @@
 .plus-text{
     position: absolute;
     left: 5%;
-    top: 30%;
+    top: 20%;
 }
 
-.plus-text a{
+.plus-text a,
+.explore-text a{
     text-decoration: none;
     display: inline-block;
     padding: 5px 10px;
     background-color: white;
+    margin-top: 40px;
 }
 
 .april-monthly-games{
@@ -140,7 +143,6 @@
     right: 0;
     bottom: 0;
     top: 0;
-
 }
 
 /* discount */
@@ -157,20 +159,49 @@
 .explore{
     background-color: #091332;
     height: 400px;
+    position: relative;
+}
+
+.explore-text{
+    color: white;
+    position: absolute;
+    left: 5%;
+    top: 10%;
+}
+
+.explore-text a{
+    color: #202020;
+}
+
+.ps-now-april{
+    height: 400px;
+    position: absolute;
+    right: 5%;
+    bottom: 0;
+    top: 0;
 }
 
 /* social media */
-.social-color{
-    background-color: slateblue;
-    height: 400px;
+.social-icon{
+    width: 90%;
 }
 
 /* footer */
 footer{
     background-color: #00439C;
+    color: white;
 }
 
-.footer-color{
-    background-color: springgreen;
-    height: 600px;
+.play-station-logo-footer,
+.sie-logo{
+    width: 100px;
+}
+
+footer ul li{
+    list-style: none;
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: white;
 }
