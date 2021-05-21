@@ -121,6 +121,7 @@
     background-color: #202020;
     color: white;
     border-radius: 10px;
+    border: none;
 }
 
 .card-title{
