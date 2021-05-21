@@ -25,7 +25,8 @@
     top: 57%;
 }
 
-.jumbotron-content a{
+.jumbotron-content a,
+.jumbotron-2-content a{
     display: inline-block;
     padding: 5px 10px;
     background-color: #cd3d0e;
@@ -68,9 +69,25 @@
     font-size: 13px;
 }
 
+/* jumbotron 2 */
 .jumbotron-2{
-    background-color: tomato;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
     height: 600px;
+    position: relative;
+}
+
+.jumbotron-2-content{
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 25%;
+}
+
+.it-takes-two-logo{
+    width: 120px;
+    margin-bottom: 40px;
 }
 
 /* news */
