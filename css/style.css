@@ -113,6 +113,34 @@
 .plus{
     background-color: #bebcbb;
     height: 400px;
+    position: relative;
+}
+
+.ps-plus-logo{
+    width: 250px;
+    margin-bottom: 40px;
+}
+
+.plus-text{
+    position: absolute;
+    left: 5%;
+    top: 30%;
+}
+
+.plus-text a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: white;
+}
+
+.april-monthly-games{
+    height: 400px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: 0;
+
 }
 
 /* discount */
