@@ -22,7 +22,7 @@
     color: white;
     position: absolute;
     left: 10%;
-    top: 60%;
+    top: 57%;
 }
 
 .jumbotron-content a{
@@ -35,6 +35,10 @@
 
 /* product */
 /* game */
+.blue-text{
+    color: #0070d1;
+}
+
 .game-box{
     height: 120px;
 }
@@ -45,31 +49,23 @@
     border-radius: 20px;
 }
 
-.blue-text{
-    color: #0070d1;
-}
-
 /* console */
-.console-cleft{
-    background-color: lightblue;
-    height: 450px;
-}
-
-.console-cright{
-    background-color: lime;
-    height: 450px;
+.console-img{
+    width: 70%;
+    height: 70%;
 }
 
 /* cross-selling */
-.cross-selling{
-    background-color: red;
+.cross-selling-item{
+    height: 300px;
 }
 
-.cross-selling-item{
-    background-color: aqua;
-    height: 150px;
-    border: 1px solid black;
+.card{
+    width: 100%;
+}
 
+.card p{
+    font-size: 13px;
 }
 
 .jumbotron-2{
