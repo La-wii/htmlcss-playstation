@@ -99,6 +99,16 @@
     color: white;
 }
 
+.card-news{
+    background-color: #202020;
+    color: white;
+    border-radius: 10px;
+}
+
+.card-title{
+    font-size: 14px;
+}
+
 /* old */
 .yellow-bottom{
     background-color: yellow;
