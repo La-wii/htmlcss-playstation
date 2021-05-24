@@ -11,6 +11,11 @@
     font-size: 14px;
 }
 
+.ps-logo-header{
+    left: 0;
+    top: 6px;
+}
+
 .my-playstation ul li{
     list-style: none;
 }
