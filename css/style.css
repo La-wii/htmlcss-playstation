@@ -23,7 +23,6 @@
     display: inline-block;
     padding: 5px 10px;
     background-color: #202020;
-    color: white;
 }
 
 /* jumbotron */
@@ -35,7 +34,6 @@
 }
 
 .jumbotron-content{
-    color: white;
     left: 5%;
     top: 57%;
 }
@@ -45,7 +43,6 @@
     display: inline-block;
     padding: 8px 20px;
     background-color: #cd3d0e;
-    color: white;
     border: 2px solid rgba(0, 0, 0, 0.8);
 }
 
@@ -54,7 +51,6 @@
     box-shadow: 0 0 0 2px #cd3d0e;
 }
 
-/* product */
 /* game */
 .blue-text{
     color: #0070d1;
@@ -98,7 +94,6 @@
 }
 
 .jumbotron-2-content{
-    color: white;
     left: 5%;
     top: 25%;
 }
@@ -113,13 +108,8 @@
     background-color: #202020;
 }
 
-.news-text{
-    color: white;
-}
-
 .card-news{
     background-color: #202020;
-    color: white;
     border-radius: 10px;
     border: none;
 }
@@ -186,7 +176,6 @@
 }
 
 .explore-text{
-    color: white;
     left: 5%;
     top: 10%;
 }
@@ -211,7 +200,6 @@
 /* footer */
 footer{
     background-color: #00439C;
-    color: white;
 }
 
 .play-station-logo-footer,
