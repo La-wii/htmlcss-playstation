@@ -47,7 +47,6 @@
     padding: 8px 20px;
     background-color: #cd3d0e;
     color: white;
-    text-decoration: none;
     border: 2px solid rgba(0, 0, 0, 0.8);
 }
 
@@ -149,12 +148,12 @@
 
 .plus-text a,
 .explore-text a{
-    text-decoration: none;
     display: inline-block;
     padding: 8px 20px;
     background-color: white;
     margin-top: 40px;
 }
+
 .plus-text a{
     border: 2px solid #bebcbb;
 }
@@ -198,7 +197,6 @@
     border: 2px solid #091332;
 }
 
-
 .ps-now-april{
     height: 400px;
     right: 5%;
@@ -227,6 +225,5 @@ footer ul li{
 }
 
 footer ul li a{
-    text-decoration: none;
     color: white;
 }
