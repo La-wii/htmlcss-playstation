@@ -76,6 +76,11 @@
 }
 
 /* console */
+
+.btn-blue:hover{
+    box-shadow: 0 0 0 3px #00439C;
+}
+
 .console-img{
     width: 70%;
     height: 70%;
